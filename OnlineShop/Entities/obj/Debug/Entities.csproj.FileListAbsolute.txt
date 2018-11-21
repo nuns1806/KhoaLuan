@@ -1,0 +1,8 @@
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\bin\Debug\Entities.dll
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\bin\Debug\Entities.pdb
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\obj\Debug\Entities.dll
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\obj\Debug\Entities.pdb
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\bin\Debug\BussinessService.dll
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\Entities\bin\Debug\BussinessService.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\BussinessService\bin\Debug\BussinessService.dll
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\BussinessService\bin\Debug\BussinessService.pdb
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\BussinessService\obj\Debug\BussinessService.csprojResolveAssemblyReference.cache
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\BussinessService\obj\Debug\BussinessService.csproj.CoreCompileInputs.cache
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\BussinessService\obj\Debug\BussinessService.dll
+C:\Users\Lap JAV\Desktop\Bao Project\KhoaLuan\OnlineShop\BussinessService\obj\Debug\BussinessService.pdb
